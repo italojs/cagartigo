@@ -1,4 +1,5 @@
-# Cagartigo
+# :poop: Cagartigo
+
 
 It's a script for dump arxiv data.
 Basically the script has a logic fo build [arxiv ids](https://arxiv.org/help/arxiv_identifier  ) -> make branches of 500 ids -> make an request for arxiv's api via [arxiv lib](https://github.com/lukasschwab/arxiv.py)
